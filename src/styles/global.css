@@ -1,0 +1,25 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+:root{
+/* Colors */
+--color-black: #333231;
+--color-primary: #B0CB1F;
+--color-white: #FFFFFF;
+
+/* Fonts */
+--font-size-h1: 60px;
+--font-size-h2: 48px;
+--font-size-h3: 40px;
+--font-size-h4: 25px;
+--font-size-body: 16px;
+--font-size-button: 16px;
+
+/* Font Family */
+
+--font-family-primary: "inter", sans-serif;
+}
