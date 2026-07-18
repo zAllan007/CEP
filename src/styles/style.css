@@ -1,1 +1,12 @@
 @import url("./global.css");
+
+/* header*/
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 425px;
+    padding: 20px 60.5px;
+}
+
+
