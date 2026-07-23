@@ -1,0 +1,31 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+:root {
+    /* Colors */
+    --color-black: #000000;
+    --color-black-2: #333231;
+    --color-black-3: #191C1F;
+    --color-gray-1: #77878F;
+    --color-gray-3: #E0E1E1;
+    --color-green: #B0CB1F;
+    --color-white: #FFFFFF;
+    --color-blue: #2DA5F3;
+    --color-yellow: #EFD33D;
+
+    /* Fonts */
+    --font-size-h1: 60px;
+    --font-size-h2: 48px;
+    --font-size-h3: 40px;
+    --font-size-h4: 25px;
+    --font-size-body: 16px;
+    --font-size-button: 16px;
+
+    /* Font Family */
+
+    font-family: "Inter", sans-serif;
+}
