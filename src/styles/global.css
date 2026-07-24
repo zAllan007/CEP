@@ -2,7 +2,7 @@
     border: 0;
     margin: 0;
     padding: 0;
-    box-sizing: 0;
+    box-sizing: border-box;
 }
 
 :root {
@@ -10,6 +10,7 @@
     --color-black: #000000;
     --color-black-2: #333231;
     --color-black-3: #191C1F;
+    --color-gray: #77878F;
     --color-gray-1: #77878F;
     --color-gray-2: #E0E1E1;
     --color-gray-3: #B1B5B8;
@@ -28,6 +29,5 @@
     --font-size-button: 16px;
 
     /* Font Family */
-
-    font-family: "Inter", sans-serif;
+    --font-family: "Inter", sans-serif;
 }
